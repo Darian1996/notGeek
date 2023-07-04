@@ -29,7 +29,7 @@
 - 你问我技术强不强，我不强，那些结果我都拿不到，但是，我认为成功需要的不止是技术强，所以取名为**不止极客**。 
 
 
-<center><h3>给我成长帮助的关键人物</h3></center>
+<center><h3>给我成长帮助的关键人</h3></center>
 
 - <a target="_blank" href="https://mercyblitz.github.io/">小马哥</a>
 - <a target="_blank" href="https://afoo.me/">福强</a>
