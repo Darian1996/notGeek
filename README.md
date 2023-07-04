@@ -1,16 +1,10 @@
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Darian1996/Darian1996/master/demo/2022/css/NotGeekDomainMarkdownHTML.css">
+
 <br>
-  <div align="center">
-    <h1>NOTGEEK</h1>
-  </div>
 
   <div align="center">
-    <h2>不止极客</h2>
+    <h1>NOTGEEK &nbsp;&nbsp; 不止极客</h1>
   </div>
-
-<br>
-<br>
-
-----
 
 <center><h2>About My skills</h2></center>
 
@@ -19,7 +13,6 @@
 - 管理（搭建核心技术团队、提高凝聚力）
 - 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
 
----
 
 
 <center><h2>About Work Product</h2></center>
@@ -33,16 +26,14 @@
     - 从 0 到 1 搭建技术团队，技术负责人
     - 竞争对手开发者几倍于我们的情况下，我们的技术和业务都遥遥领先
 
----
 
 <center><h2>NOTGEEK 的由来</h2></center>
 
 > - 我跟你讲一个北京话，叫做没有金刚钻，不揽瓷器活。我们有前瞻性吗？我们有，我们没有，我活不到今天。 -- 段永平波士堂
-> - 灵感来源：<a target="_blank" href="https://nocode.com">无码科技官网</a>
+> - 灵感来源：<a target="_blank" href="https://nocode.com">无码科技官网</a> : nocode.com 
 
 - 你问我技术强不强，我不强，那些结果我都拿不到，但是，我认为成功需要的不止是技术强，所以取名为**不止极客**
 
----
 
 <center><h2>给我成长帮助的关键人物</h2></center>
 
