@@ -1,6 +1,6 @@
  <div align="center">
     <h2>NOTGEEK</h2>
-    <h3>不止极客</h3>
+    <h2>不止极客</h2>
   </div>
 <center><h3>My skills</h3></center>
 
@@ -84,11 +84,22 @@ a {
 p {
     font-size: 27px;
 }
-p, li, h1,h2,h3 {
+p, li, h1,h3 {
     background-image: linear-gradient(
             45deg,
             #e44219,
             #005ff3
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h2 {
+background-image: linear-gradient(
+            45deg,
+            #F6AAF2,
+            #8CC9F3,
+            #00FBEF
     );
     background-clip: text;
     -webkit-background-clip: text;
