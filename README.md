@@ -2,14 +2,14 @@
     <h2>NOTGEEK</h2>
     <h3>不止极客</h3>
   </div>
-<center><h3>About My skills</h3></center>
+<center><h3>My skills</h3></center>
 
 - 技术（处理技术本身和业务在技术侧遇到的问题）
 - 产品（优化用户体验、提升运营效率）
 - 管理（搭建核心技术团队、提高凝聚力）
 - 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
 
-<center><h3>About Work Product</h3></center>
+<center><h3>Work Product</h3></center>
 
 - 蚂蚁核心项目的核心开发者
     - 年度质量硬核郎
