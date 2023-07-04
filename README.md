@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Darian1996/Darian1996/master/demo/2022/css/NotGeekDomainMarkdownHTML.css">
-
 <br>
 
   <div align="center">
@@ -48,6 +46,73 @@
 
 
 
+---
+
+<style>
+/*NotGeek.cn 官网的样式 */
+body {
+    max-width: 52rem;
+    padding: 2rem;
+    margin: auto;
+    font-family: 'Source Han Serif', serif;
+    font-size: 21px;
+}
+img {
+    max-width:100%;
+    max-height:100%;
+    display: block;
+    text-align: center;
+    margin:auto;
+}
+h1 {
+    margin-block: 1.2rem;
+    font-size: 63px;
+}
+figcaption {
+    text-align: center;
+}
+nav a, footer div {
+    margin:0px 5px;
+    background-image: linear-gradient(
+            45deg,
+            #e44219,
+            #005ff3
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+a {
+    margin:0px 5px;
+    background-image: linear-gradient(
+            45deg,
+            #F6AAF2,
+            #8CC9F3,
+            #00FBEF
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p {
+    font-size: 27px;
+}
+p, li, h1,h2,h3 {
+    background-image: linear-gradient(
+            45deg,
+            #e44219,
+            #005ff3
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.center {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+</style>
 
 
 
