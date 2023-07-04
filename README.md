@@ -1,10 +1,11 @@
 <br>
 
   <div align="center">
-    <h1>NOTGEEK &nbsp;&nbsp; 不止极客</h1>
+    <h2>NOTGEEK</h2>
+    <h3>不止极客</h3>
   </div>
 
-<center><h2>About My skills</h2></center>
+<center><h3>About My skills</h3></center>
 
 - 技术（处理技术本身和业务在技术侧遇到的问题）
 - 产品（优化用户体验、提升运营效率）
@@ -13,7 +14,7 @@
 
 
 
-<center><h2>About Work Product</h2></center>
+<center><h3>About Work Product</h3></center>
 
 - 蚂蚁核心项目的核心开发者
     - 年度质量硬核郎
@@ -25,7 +26,7 @@
     - 竞争对手开发者几倍于我们的情况下，我们的技术和业务都遥遥领先
 
 
-<center><h2>NOTGEEK 的由来</h2></center>
+<center><h3>NOTGEEK 的由来</h3></center>
 
 > - 我跟你讲一个北京话，叫做没有金刚钻，不揽瓷器活。我们有前瞻性吗？我们有，我们没有，我活不到今天。 -- 段永平波士堂
 > - 灵感来源：<a target="_blank" href="https://nocode.com">无码科技官网</a> : nocode.com 
@@ -33,7 +34,7 @@
 - 你问我技术强不强，我不强，那些结果我都拿不到，但是，我认为成功需要的不止是技术强，所以取名为**不止极客**
 
 
-<center><h2>给我成长帮助的关键人物</h2></center>
+<center><h3>给我成长帮助的关键人物</h3></center>
 
 - <a target="_blank" href="https://mercyblitz.github.io/">小马哥</a>
 - <a target="_blank" href="https://afoo.me/">福强</a>
