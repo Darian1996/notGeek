@@ -85,7 +85,7 @@ background-image: linear-gradient(
 </style>
 
 
-<figcaption><h1>NOTGEEK</h1></figcaption>
+<figcaption><h2>NOTGEEK</h2></figcaption>
 <figcaption><h2>不止极客</h2></figcaption>
 
 <figcaption><h3>My skills</h3></figcaption>
