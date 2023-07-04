@@ -54,7 +54,6 @@ p, li, h1,h3 {
     -webkit-text-fill-color: transparent;
 }
 h1 {
-    margin-block: 1.2rem;
     background-image: linear-gradient(
             45deg,
             #F6AAF2,
@@ -64,7 +63,7 @@ h1 {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 90px;
+    font-size: 75px;
 }
 h2 {
 background-image: linear-gradient(
@@ -84,6 +83,8 @@ background-image: linear-gradient(
     align-items:center;
 }
 </style>
+
+
 <figcaption><h1>NOTGEEK</h1></figcaption>
 <figcaption><h2>不止极客</h2></figcaption>
 
