@@ -123,19 +123,23 @@ td {
 - <a target="_blank" href="https://mercyblitz.github.io/">小马哥</a>
 - <a target="_blank" href="https://afoo.me/">福强</a>
 - <a target="_blank" href="https://blog.notgeek.cn">我的博客</a>  
-- <a target="_blank" href="https://blog.notgeek.cn/about">关于我</a>  
+- <a target="_blank" href="https://blog.notgeek.cn/about">关于我</a>
+---
 
-
-
-
-
-| <img src="https://blog.notgeek.cn/img/wechat_color_poster.png" style="width: 100px"/> | <img src="https://blog.notgeek.cn/img/notgeek_color_poster.png" style="width: 100px"/> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
+<a href="https://beian.miit.gov.cn/" target='_blank'>
+    <br>
+    <div align="center">
+        豫ICP备20012533号-1
+    </div>
+    <br>
+</a>
+---
 
 
 
 <p hidden="hidden">
+| <img src="https://blog.notgeek.cn/img/wechat_color_poster.png" style="width: 100px"/> | <img src="https://blog.notgeek.cn/img/notgeek_color_poster.png" style="width: 100px"/> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 - 某垂直行业 TOP1 创业公司
     - 技术负责人: 从 0 到 1 搭建技术团队
     - 竞争对手开发者几倍于我们的情况下，我们的技术和业务都遥遥领先
