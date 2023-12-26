@@ -91,17 +91,22 @@ td {
 </style>
 
 
-<figcaption><h2>CodeEdu</h2></figcaption>
-<figcaption><h2>编程教育</h2></figcaption>
+<figcaption><h2>NotGeek</h2></figcaption>
+<figcaption><h3>不止极客</h3></figcaption>
 
-<figcaption><h3>做事原则</h3></figcaption>
+----
 
-- 给钱就干，不给钱就不干
-- 什么时候给钱什么时候干
-- 什么时候开始拖欠，什么时候停止干
+<figcaption><h3>能力象限</h3></figcaption>
+
+- 技术（处理技术本身和业务在技术侧遇到的问题）
+- 产品（优化用户体验、提升运营效率）
+- 管理（搭建核心技术团队、提高凝聚力）
+- 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
+
+---
 
 <figcaption>
 <a href="https://beian.miit.gov.cn/" target='_blank'>
-        豫ICP备20012533号-4
+豫ICP备20012533号-3
 </a>
 </figcaption>

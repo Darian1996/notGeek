@@ -32,9 +32,8 @@ a {
     margin:0px 5px;
     background-image: linear-gradient(
             45deg,
-            #F6AAF2,
-            #8CC9F3,
-            #00FBEF
+            #e44219,
+            #005ff3
     );
     background-clip: text;
     -webkit-background-clip: text;
@@ -43,7 +42,7 @@ a {
 p {
     font-size: 27px;
 }
-p, li, h1,h3 {
+p, li, h1,h3, h4 {
     background-image: linear-gradient(
             45deg,
             #e44219,
@@ -56,9 +55,8 @@ p, li, h1,h3 {
 h1 {
     background-image: linear-gradient(
             45deg,
-            #F6AAF2,
-            #8CC9F3,
-            #00FBEF
+            #e44219,
+            #005ff3
     );
     background-clip: text;
     -webkit-background-clip: text;
@@ -66,11 +64,10 @@ h1 {
     font-size: 75px;
 }
 h2 {
-background-image: linear-gradient(
+    background-image: linear-gradient(
             45deg,
-            #F6AAF2,
-            #8CC9F3,
-            #00FBEF
+            #e44219,
+            #005ff3
     );
     background-clip: text;
     -webkit-background-clip: text;
@@ -91,28 +88,19 @@ td {
 </style>
 
 
-<figcaption><h2>NotGeek</h2></figcaption>
-<figcaption><h2>不止极客</h2></figcaption>
-<figcaption><h3>能力象限</h3></figcaption>
-
-- 技术（处理技术本身和业务在技术侧遇到的问题）
-- 产品（优化用户体验、提升运营效率）
-- 管理（搭建核心技术团队、提高凝聚力）
-- 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
+<figcaption><h2>CodeEdu </h2></figcaption>
+<figcaption><h4>编程教育</h4></figcaption>
 
 ----
 
-- http://codeedu.cn
-- http://notgeek.cn
-- http://nogeek.cn
+<figcaption><h3>做事原则（华与华）</h3></figcaption>
+
+- 给钱就干，不给钱就不干
+- 什么时候给钱什么时候干
+- 什么时候开始拖欠，什么时候停止干
 
 ---
 
-
-
-
 <figcaption>
-<a href="https://beian.miit.gov.cn/" target='_blank'>
-豫ICP备20012533号-3
-</a>
+<a href="https://beian.miit.gov.cn/" target='_blank'>豫ICP备20012533号-4</a>
 </figcaption>
