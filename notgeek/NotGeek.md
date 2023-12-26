@@ -92,7 +92,6 @@ td {
 
 
 <figcaption><h2>NotGeek</h2></figcaption>
-<figcaption><h5>http://notgeek.cn</h5></figcaption>
 <figcaption><h2>不止极客</h2></figcaption>
 <figcaption><h3>能力象限</h3></figcaption>
 
@@ -101,6 +100,13 @@ td {
 - 管理（搭建核心技术团队、提高凝聚力）
 - 商业（深刻理解并在技术侧落地实施落地公司的商业战略）
 
+----
+
+- http://codeedu.cn
+- http://notgeek.cn
+- http://nogeek.cn
+
+---
 
 
 
